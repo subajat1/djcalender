@@ -1,3 +1,6 @@
+src/node_modules/**
+src/components/**
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
